@@ -5,6 +5,3 @@
 [submodule "biosampleR"]
 	path = biosampleR
 	url = https://github.com/csim063/biosampler
-[submodule "spectre"]
-	path = spectre
-	url = https://github.com/cran/spectre
